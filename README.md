@@ -18,7 +18,7 @@
 <a href="https://leetcode.com/jayshimpi07/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:jayshimpi07@gmail.com" target="_blank">
+<a href="mailto:jayshimpi2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
