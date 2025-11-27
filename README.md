@@ -86,7 +86,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=jayshimpi07&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=jayshimpi07&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
