@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,opencv,mongodb,mysql" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,postman" />
 
 </p>
 
@@ -62,7 +62,9 @@
 ⚡ <b>FastAPI · Flask · Streamlit</b><br/>
 🧩 <b>Data Structures & Algorithms</b><br/>
 👁️ <b>OpenCV · NLP · HuggingFace</b><br/>
-☁️ <b>Deployment & API Design</b>
+☁️ <b>Deployment & API Design · Docker · Model Serving</b><br/>
+🚢 <b>Containerization & Deployment:</b> 
+
 
 </p>
 
