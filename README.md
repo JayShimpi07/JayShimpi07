@@ -70,22 +70,47 @@
 </p>
 
 <hr width="75%"/>
+<h2 align="center">🧠 Advanced RAG AI Assistant (RAG Pipeline)</h2>
 
-<h3>🧠 Advanced RAG Pipeline — Custom Implementation</h3>
-<p>
-✅ Developed a fully <b>modular custom RAG pipeline</b> with document loading + embeddings + retrieval <br/>
-✅ Supports <b>PDF/TXT ingestion</b>, metadata tracking, and citation-based summarization <br/>
-✅ Orchestrated end-to-end via main controller <code>app.py</code>
+<p align="center">
+  ✅ Built an end-to-end document AI assistant with citation-linked answers<br>
+  ✅ Custom RAG pipeline with chunking, embeddings, vector search & LLM responses<br>
+  ✅ Interactive UI showing AI pipeline stages (chunks → embeddings → retrieval → answer)
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Modular-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector%20DB-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Pipeline-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Groq-Summarization-black?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flask-Web%20UI-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MiniLM-Embeddings-00bcd4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-Pipeline-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Citations-Supported-2ecc71?style=for-the-badge">
+</p>
+<hr width="75%"/>
+
+<h2 align="center">🩺 Kidney Disease Classification — MLOps End-to-End Pipeline</h2>
+
+<p align="center">
+✅ Built a production-ready deep learning pipeline for kidney disease classification <br>
+✅ End-to-end MLOps workflow with MLflow tracking + DVC pipeline orchestration <br>
+✅ Automated CI/CD deployment using Docker, AWS (ECR + EC2), and Render
 </p>
 
-</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-Backend-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/TENSORFLOW-Deep_Learning-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/CNN-Model-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLFLOW-Experiment_Tracking-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/DVC-Data_Pipeline-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/FLASK-API-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/DOCKER-Containerization-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-Deployment-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/CI/CD-Automation-brightgreen?style=for-the-badge">
+
+</p>
+
 
 ---
 
