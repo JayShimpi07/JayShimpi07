@@ -20,7 +20,6 @@
 </a>
 
 </div>
-
 ---
 
 <!-- ================= ABOUT ================= -->
@@ -34,6 +33,23 @@
 </p>
 
 ---
+<!-- ================= ACHIEVEMENTS ================= -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90"/>
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90"/>
+</p>
+<p align="center">
+🚀 Consistent Open Source Contributor <br/>
+🧠 Competitive Programmer (LeetCode) <br/>
+♟️ State & National Level Chess Player (Strategic Thinker) <br/>
+🎯 Conference Paper Presenter – ICRTAIDS 2025
+</p>
+
+<br/>
 
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center">🚀 Featured Projects</h2>
