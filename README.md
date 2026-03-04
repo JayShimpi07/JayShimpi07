@@ -18,6 +18,9 @@
 <a href="https://leetcode.com/jayshimpi07/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://www.hackerrank.com/profile/jayshimpi2005" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Jay%20Shimpi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
